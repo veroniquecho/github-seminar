@@ -1,4 +1,3 @@
-
 # 깃허브 세미나 
 
 
@@ -14,3 +13,6 @@
 [고희경](https://github.com/heekyong/)
 [김다정](https://github.com/jenna1k)
 [정주영](https://github.com/jungjuyoung)
+[정주영](https://github.com/jungjuyoung)
+[나라](https://github.com/narahan/)
+
