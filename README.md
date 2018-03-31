@@ -27,4 +27,5 @@
 [김다빈](https://github.com/pippikim) 
 [이윤재](https://github.com/leeyunjea) 
 [유정이](https://github.com/JUNGEEYOU)
+[김연수](https://github.com/yskimaz)
 
