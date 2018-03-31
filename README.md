@@ -8,7 +8,10 @@
 깃허브 프로필 주소를 남겨주세요.
 
 [이수진](https://github.com/sujinleeme) 
+[김혜진](https://github.com/hyejinkim1005)
 [Violet Bora Lee](https://github.com/Violet-Bora-Lee)
 [고희경](https://github.com/heekyong/)
 [김다정](https://github.com/jenna1k)
+
+=======
 
